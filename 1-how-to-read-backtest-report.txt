@@ -1,0 +1,8 @@
+no of signals
+accuracy
+win streak
+lose streak
+roi / pl
+mdd
+car/mdd (recovery ratio)
+sharpe ratio
