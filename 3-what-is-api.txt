@@ -1,0 +1,11 @@
+API 
+
+
+1. REST API
+2. Websocket
+
+there are 2 types of servers
+
+WSGI (Never use this)
+
+ASGI
