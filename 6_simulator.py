@@ -86,6 +86,7 @@ def my_strategy(SYMBOL, TIMEFRAME):
 	report_df = pd.DataFrame(report)
 	report_df['pl_abs'] = report_df['exit_price'] - report_df['entry_price']
 	report_df['cum'] = report_df['pl_abs'].cumsum()
+	report_df['account_balance'] = report_df['cum'] + 1000
 	print(report_df)
 
 	print("PL ABS: ", report_df['pl_abs'].sum())

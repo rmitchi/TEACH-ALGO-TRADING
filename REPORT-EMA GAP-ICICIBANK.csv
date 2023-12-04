@@ -1,0 +1,2 @@
+,entry_time,exit_time,entry_price,exit_price,reason,pl_abs,cum,account_balance
+0,2023-12-04 10:04:00+05:30,2023-12-04 10:10:00+05:30,973.5,972.5499877929688,STOPLOSS,-0.95001220703125,-0.95001220703125,999.0499877929688
